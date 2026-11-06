@@ -1,2 +1,3 @@
-# Daspro
-Repository untuk tugas Daspro
+# Repo Tugas
+
+Repository untuk tugas LTIK, Daspro, dan PRPL
