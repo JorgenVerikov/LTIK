@@ -31,10 +31,4 @@ def nilai_total(*nilai):
     rata_rata = total / len(nilai) if nilai else 0
     return total, rata_rata
 
-nilai_list = []
-for i in range(nilai):
-    n = float(input(f"Masukkan nilai ke-{i + 1}: "))
-    nilai_list.append(n)
-total, rata_rata = nilai_total(*nilai_list)
-print(f"Total nilai: {total}")
-print(f"Rata-rata nilai: {rata_rata}")
+nilai = [12, 15, 20, 25, 30]
